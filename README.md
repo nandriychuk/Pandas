@@ -9,7 +9,7 @@ Your final report should include each of the following:
 
 
 ## Player Count
-Total Number of Players
+* Total Number of Players
 
 ## Purchasing Analysis (Total)
 
